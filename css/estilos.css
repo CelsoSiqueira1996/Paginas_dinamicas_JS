@@ -46,6 +46,10 @@ h1 {
   width: 120px;
 }
 
+.tecla_play {
+  width: 360px;
+}
+
 .tecla.ativa,
 .tecla:active {
   background-color: var(--vermelha);
